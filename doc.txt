@@ -1,0 +1,7 @@
+AppID(小程序ID): wx07e4c574dfb2c250
+登录邮箱: ssm85108@gsk.com
+原始ID: gh_e84d8d2b4301
+
+
+http://SHJWL19H32703.wmservice.corpnet1.com:8080/DASHBOARD
+http://localhost:8080/DASHBOARD/login.do;jsessionid=C6993B332DD7020351AFC5227B7F30AE
